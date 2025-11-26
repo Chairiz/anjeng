@@ -3,7 +3,7 @@
   "dialogs": [
     {
       "text": "Halo ini adalah pesan dari admin. Aplikasi akan ditutup.",
-      "action": "KELUAR"
+      "action": "LANJUT"
     }
   ]
 }
